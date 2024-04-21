@@ -1,6 +1,7 @@
 # Peck
 ## An iPhone type racer
 ![Screenshot 1](assets/collage.png)
+![Download on App Store](assets/appstore-badge.png)
 
 ### Test your typing speed and train until you’ve fully harnessed your mind, body, and keyboard.
 
